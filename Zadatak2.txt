@@ -1,1 +1,4 @@
-Tihana je blesava
+git add .
+git push
+git commit -m ""
+git status
